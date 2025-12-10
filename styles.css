@@ -153,3 +153,44 @@ p{
     font-weight: 900;
     margin-left: 570px;
 }
+
+.box{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    margin: 100px 200px;
+    padding:50px 100px;
+    height:60px;
+    border-radius: 10px;
+}
+
+.subbox{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between; 
+}
+
+#button2{
+    background-color: #3882F6;
+    padding: 5px 20px;
+    color:#F9FAF8;
+    border-color: #F9FAF8;
+    font-weight: 700;
+    border-style: solid;
+    border-radius: 5px;
+    width:100px;
+    height:30px;
+}
+
+.p-fifth{
+    color: #E5E7EB;
+}
+
+.bottom-box{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 40px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
