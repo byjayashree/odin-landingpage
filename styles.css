@@ -131,3 +131,25 @@ p{
     text-align: center;
     color: #818080;
 }
+
+.page3{
+    background-color: #E5E7EB;
+    margin-top: 150px;
+}
+
+.quote{
+    padding: 150px 350px 150px 350px;
+    font-style: italic;
+}
+
+.p-third{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+}
+
+.p-fourth{
+    color:#1F2937;
+    font-weight: 900;
+    margin-left: 570px;
+}
